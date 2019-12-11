@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">wechat</string>
+    <string name="font1">&#xe601;</string>
+
+
+    <string name="faxian">&#xe649;</string>
+    <string name="shezhi">&#xe705;</string>
+    <string name="pengyouquan">&#xe65c;</string>
+    <string name="tongxunlu">&#xe606;</string>
+    <string name="biaoqing">&#xe619;</string>
+    <string name="wode">&#xe600;</string>
+    <string name="xindepengyou">&#xe608;</string>
+    <string name="fujinderen">&#xe602;</string>
+    <string name="liaotian">&#xe603;</string>
+    <string name="xiagnce">&#xe706;</string>
+    <string name="kabao">&#xe607;</string>
+    <string name="yaoyiyao">&#xe609;</string>
+    <string name="xiangji">&#xe60a;</string>
+    <string name="fangdajing">&#xe605;</string>
+    <string name="biaoqian">&#xe601;</string>
+    <string name="shoucang">&#xe604;</string>
+    <string name="jiahao">&#xe615;</string>
+    <string name="zhifu">&#xe60b;</string>
+    <string name="gongzhonghoa">&#xe60c;</string>
+    <string name="qunlaio">&#xe64b;</string>
+</resources>
